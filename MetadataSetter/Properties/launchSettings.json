@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MetadataSetter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Joe\\Desktop\""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\bin\Debug\netcoreapp3.1\MetadataSetter.exe
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\obj\Debug\netcoreapp3.1\MetadataSetter.csprojAssemblyReference.cache
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\obj\Debug\netcoreapp3.1\MetadataSetter.AssemblyInfoInputs.cache
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\obj\Debug\netcoreapp3.1\MetadataSetter.AssemblyInfo.cs
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\bin\Debug\netcoreapp3.1\MetadataSetter.deps.json
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\bin\Debug\netcoreapp3.1\MetadataSetter.runtimeconfig.json
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\bin\Debug\netcoreapp3.1\MetadataSetter.runtimeconfig.dev.json
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\bin\Debug\netcoreapp3.1\MetadataSetter.dll
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\bin\Debug\netcoreapp3.1\MetadataSetter.pdb
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\bin\Debug\netcoreapp3.1\taglib-sharp.dll
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\obj\Debug\netcoreapp3.1\MetadataSetter.csproj.CopyComplete
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\obj\Debug\netcoreapp3.1\MetadataSetter.dll
+C:\Users\joe\source\repos\MetadataSetter\MetadataSetter\obj\Debug\netcoreapp3.1\MetadataSetter.pdb
