@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="taglib-sharp-netstandard2.0" Version="2.1.0" />
+    <Reference Include="TagLibSharp">
+      <HintPath>..\taglib-sharp\src\Debug\bin\Debug\netstandard2.0\TagLibSharp.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
